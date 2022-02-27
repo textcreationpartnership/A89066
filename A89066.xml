@@ -1,0 +1,190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mercurius Britanicus, his apologie to all well-affected people. Together with an humble addresse to the High Court of Parliament. Published according to order.</title>
+            <author>Mercurius Britanicus.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89066</idno>
+            <idno type="STC">Wing M1756</idno>
+            <idno type="STC">Thomason E296_10</idno>
+            <idno type="STC">ESTC R200204</idno>
+            <idno type="EEBO-CITATION">99861009</idno>
+            <idno type="PROQUEST">99861009</idno>
+            <idno type="VID">113136</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89066)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113136)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 49:E296[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mercurius Britanicus, his apologie to all well-affected people. Together with an humble addresse to the High Court of Parliament. Published according to order.</title>
+                  <author>Mercurius Britanicus.</author>
+               </titleStmt>
+               <extent>[1], 7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.W.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug: 11th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Pamphlets --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113136:1"/>
+            <p>
+               <hi>Mercurius Britanicus,</hi> HIS APOLOGIE To all <hi>Well-affected People.</hi>
+            </p>
+            <p>Together with an humbe Addreſſe To the <hi>High Court of Parliament.</hi>
+            </p>
+            <p>Publiſhed according to Order.</p>
+            <p>
+               <date>
+                  <add>Aug: 11<hi rend="sup">th.</hi>
+                  </add>
+               </date> 
+               <hi>LONDON,</hi> Printed for <hi>R. W.</hi> 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:113136:2"/>
+            <head>MERCURIUS BRITANICUS, His Apologie, &amp;c.</head>
+            <opener>
+               <salute>Well-affected Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is to thee I write; as for the Ma<g ref="char:EOLhyphen"/>lignant ignorant <hi>Rabble,</hi> I value them not.</p>
+            <p>I thought to have proceeded in my wonted <hi>Weekly courſe;</hi> but hearing of the many Clamours abroad (exaſperated by the <hi>malicious tongues</hi> of ſuch as glory in the name of <hi>Royaliſts</hi>) againſt <hi>Britanicus,</hi> and being in<g ref="char:EOLhyphen"/>formed of ſome diſcontent alſo among our <hi>Friends,</hi> I judged it expedient firſt to remove this <hi>Prejudice</hi> by a timely <hi>Satisfaction.</hi>
+            </p>
+            <p>I intend not to act a <hi>ſelf-juſtification</hi> where I know I have offended; and there can be no greater argument or aggravation of my of<g ref="char:EOLhyphen"/>fence, than to have merited the diſpleaſure of the <hi>Parliament:</hi> VVith all humility then I bow to the Cenſure of that <hi>Supreme Court,</hi> the moſt equall and excellent <hi>Arbiter</hi> in all Caſes what<g ref="char:EOLhyphen"/>ſoever: Yet (and I hope without blame) I ſhall
+<pb n="2" facs="tcp:113136:2"/>
+take liberty to ſay ſomewhat in excuſe of my fault, and endeavour to mitigate that with Reaſon, which others raile at in Paſsion.</p>
+            <p>As touching the <hi>matter</hi> I have written, I ſhould wilfully belie my own <hi>Conſcience,</hi> if I did not avow it for <hi>Truth;</hi> and I have weekly given ſufficient <hi>Evidences</hi> to the whole <hi>King<g ref="char:EOLhyphen"/>dome,</hi> that it is ſo: Know then, <hi>Reader,</hi> (and I think thou doſt know) that in ſuch a caſe <hi>Bri<g ref="char:EOLhyphen"/>tanicus</hi> will neither diſſemble, nor tremble: But in ſome Circumſtantials, as the <hi>manner,</hi> &amp;c. I confeſſe I have overſhot my ſelf, though I hope, not beyond <hi>Recovery;</hi> for when the <hi>Occaſion</hi> and <hi>Cauſe</hi> of my boldnes is known, I ſuppoſe few will pronounce me utterly in<g ref="char:EOLhyphen"/>excuſable.</p>
+            <p>My meditating on the <hi>Kings</hi> Letters to the Marquis of <hi>Ormond,</hi> was the <hi>occaſion;</hi> and the on<g ref="char:EOLhyphen"/>ly <hi>cauſe</hi> (without oſtentation I ſpeak it) was my <hi>zeale</hi> to the Honour of the <hi>Parliament,</hi> and that poor gaſping Kingdom of <hi>Ireland,</hi> now yield<g ref="char:EOLhyphen"/>ing up the ghoſt: The former being ſo often branded in thoſe <hi>Letters</hi> with the moſt infa<g ref="char:EOLhyphen"/>mous ſlander of <hi>Rebels,</hi> when the abominable <hi>Iriſh</hi> at the ſame time are called <hi>Subjects;</hi> and the latter (together with their precious <hi>Religion</hi>
+               <pb n="3" facs="tcp:113136:3"/>
+and <hi>Liberties</hi>) proſtituted by an open ſale to the Tyrannie and Cruelty of the moſt barba<g ref="char:EOLhyphen"/>rous <hi>Rebels</hi> in the world. The conſideration of theſe things (I muſt confeſſe) tranſported me beyond my ſelf, and clouded my judge<g ref="char:EOLhyphen"/>ment with ſo much paſsion, that I did not diſcern when my Pen ſlipped: And truly, what <hi>Chriſtian</hi> would not have been moved upon ſuch ſtrange apprehenſions as I then collected out of the <hi>Kings</hi> own Letters? which you may read at large in the laſt weeks <hi>Brita<g ref="char:EOLhyphen"/>nicus.</hi> I will give an Inſtance or two out of it.</p>
+            <p>
+               <q>The <hi>King</hi> in one Letter bids <hi>Ormond</hi> tell the Rebels, that <hi>Poynings</hi> Act, and all Lawes againſt <hi>Papiſts</hi> ſhall be abrogated, upon con<g ref="char:EOLhyphen"/>dition they will ſide with him againſt <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and <hi>Scotland:</hi> And this (he ſayes plainly) is neither againſt <hi>Conſcience</hi> nor <hi>Honour.</hi>
+               </q>
+            </p>
+            <p>
+               <q>A ſecond Inſtance is, that in another <hi>Let<g ref="char:EOLhyphen"/>ter</hi> he charges <hi>Ormond,</hi> howſoever, to con<g ref="char:EOLhyphen"/>tinue the <hi>Ceſſation,</hi> if a <hi>Peace</hi> could not be ob<g ref="char:EOLhyphen"/>tained upon ſuch Termes as had been ſent him; and that rather than the <hi>Bargain</hi> ſhould faile about the <hi>Ceſſation,</hi> he muſt bid ſo high, as to promiſe to joyn with the <hi>Rebels</hi> againſt the <hi>Proteſtants;</hi> And for a concluſion, the
+<pb n="4" facs="tcp:113136:3"/>
+                  <hi>King</hi> talks of granting more hereafter, if he be able.</q>
+            </p>
+            <p>
+               <q>A third Inſtance out of another <hi>Letter</hi> is: That <hi>Poynings Act</hi> (the maine fundamentall of the <hi>Engliſh Proteſtants</hi> in <hi>Ireland,</hi> is once a<g ref="char:EOLhyphen"/>gaine proſtituted to the pleaſure of <hi>Iriſh Re<g ref="char:EOLhyphen"/>beli:</hi> That the chiefe of the Rebels (<hi>Browne, Muskery,</hi> and <hi>Plunket</hi>) having ſignified their deſires in matter of <hi>Religion,</hi> receive not on<g ref="char:EOLhyphen"/>ly ſatisfaction, but thankes alſo for their <hi>Motion;</hi> yea further, and Counſell to ſticke to it; and laſtly an encouragement from the <hi>King's</hi> own hand, telling thoſe <hi>helliſh Fire<g ref="char:EOLhyphen"/>brands,</hi> that ſo <hi>they and their Nation ſhall have comfort in what they have done:</hi> That his finall reſolution concerning Religion in <hi>Ireland</hi> is, a ſuſpenſion of the <hi>Penall Lawes</hi> againſt <hi>Ca<g ref="char:EOLhyphen"/>tholiques</hi> for the preſent; and after that the <hi>Iriſh</hi> have helped him to ruine us here, an abſolute aboliſhment of them by a <hi>Law:</hi> Touching this, he concludes with an In<g ref="char:EOLhyphen"/>junction of Secreſie, but now it is publiſhed on the <hi>Houſe-tops.</hi>
+               </q>
+            </p>
+            <p>I could give you more; but the conſiderati<g ref="char:EOLhyphen"/>on (I ſay) of theſe things, together with his manifeſt endeavour to ruine and roote out all
+<pb n="5" facs="tcp:113136:4"/>
+true <hi>Profeſſors</hi> of the <hi>Power of Godlineſſe,</hi> in this famous <hi>City</hi> and <hi>Kingdom,</hi> extorted that from me on the ſudden, which (upon ſecond thoughts) I diſavow, as unſeemely and fooliſh.</p>
+            <p>That thoſe expreſsions came out ſomwhat unſeaſonably, I grant, in regard <hi>Propoſitions</hi> are to be ſent: but this is more than I knew at the time of my writing; howſoever, I am ſure the <hi>Houſes</hi> had not then determined to ſend any, and I my ſelf am ſo deſirous of an end of theſe miſeries by an happy <hi>Accommoda<g ref="char:EOLhyphen"/>tion</hi> (if poſsible) that I ever did, and ſhall en<g ref="char:EOLhyphen"/>deavour to expreſſe my ſelf ſutably thereun<g ref="char:EOLhyphen"/>to, when occaſion is offered.</p>
+            <p>That I have mentioned any thing to diſ<g ref="char:EOLhyphen"/>grace the <hi>King</hi> in his naturall infirmity, (as ſome concieve) I utterly deny; for if I may have the liberty allowed by the Civill Law (<hi>Cujus eſt condere, ejus eſt &amp; interpretari</hi>) the <hi>Mar<g ref="char:EOLhyphen"/>ginall Adage</hi> is otherwiſe to be conſtrued.</p>
+            <p>Thus much (well-affected Reader) for thyſa<g ref="char:EOLhyphen"/>tisfaction: now give meleave to make a <hi>Requeſt;</hi> that thou be not ſwayed aſide by the noiſe of Malignant and Malicious <hi>Tongues,</hi> whoſe <hi>hare<g ref="char:EOLhyphen"/>brain'd Maſters</hi> plot and labour to heighten <hi>diſ<g ref="char:EOLhyphen"/>contents</hi> againſt me: But conſider, that though
+<pb n="6" facs="tcp:113136:4"/>
+               <hi>Britanicus</hi> hath erred once againſt the <hi>King,</hi> yet never did againſt the <hi>Kingdom.</hi>
+            </p>
+            <p>I ſhall conclude with my humble <hi>Addreſſe</hi> to the High and Honourable <hi>Court</hi> of <hi>Parli<g ref="char:EOLhyphen"/>ament.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="address">
+                        <opener>
+                           <salute>MOST EXCELLENT SENATE,</salute>
+                        </opener>
+                        <p>AS the ſenſe of your <hi>diſpleaſure</hi> firſt brought me to a ſight of my <hi>offence,</hi> ſo it is a puniſhment beyond all that can be inflicted: I never joyed in any thing more than in your proſperous <hi>Succeſſe,</hi> becauſe thereby I enjoyed <hi>Life</hi> and <hi>Liberty</hi> to do You and the <hi>Kingdom</hi> Service; nor do I deſire either of them any longer than they may be uſefull to that end, but ſhall be ready (if commanded) to render my ſelf a <hi>willing Sacrifice</hi> to the <hi>Publique.</hi> Yet (moſt honourable <hi>Councell</hi>) if in your impartiall Judgement, the weight of my <hi>raſh errour</hi> do not ſinke me, I earneſtly crave it may not recieve any <hi>aggravation</hi>
+                           <pb n="7" facs="tcp:113136:5"/>
+from the malice of <hi>Malignant Adver<g ref="char:EOLhyphen"/>ſaries;</hi> whom I may juſtly ſuſpect to have, now I am <hi>under a Cloud</hi> (as they ever have had in time of greateſt <hi>Serenity</hi>) a particular <hi>Deſigne</hi> in <hi>Secret</hi> againſt me. What I may expect from ſuch men, their <hi>inſulting Language</hi> declares, and the manifold <hi>Abuſes</hi> put upon him now in <hi>Priſon,</hi> who was only an <hi>Inſtrument,</hi> not <hi>Principall</hi> in the buſineſſe: And there<g ref="char:EOLhyphen"/>fore proſtrating my ſelf to the favour of that <hi>High Court,</hi> the <hi>Sanctuary</hi> and ſacred Refuge of all ſuch as have been faithfull to their <hi>Country,</hi> I moſt hum<g ref="char:EOLhyphen"/>bly begge thier <hi>Pardon</hi> and <hi>Protection.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
